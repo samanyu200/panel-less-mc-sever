@@ -44,4 +44,5 @@
 ## And run the above command again whenever you want to start your server.
 
 # Hurray your server is now running🎉🎉🎉🎉🎉🎉!!!!!
+# guys this commands not working pls check the file commands.txt
 # if u encounter any problem dm me in discord gamer_only99 thanks ! if u think think this was helpfull
